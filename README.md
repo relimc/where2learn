@@ -14,3 +14,6 @@
 5. [ ﹏猴子请来的救兵](https://www.cnblogs.com/yyhh/) 测试工具
 6. [hexo-NexT 主题](https://theme-next.iissnan.com/)
 7. [Huoty's Blog](http://kuanghy.github.io/)
+
+## Articles
+1. [彻底搞懂shell的高级I/O重定向](https://www.cnblogs.com/f-ck-need-u/p/8727401.html)
