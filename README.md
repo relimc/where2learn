@@ -18,3 +18,6 @@
 
 ## Articles
 1. [彻底搞懂shell的高级I/O重定向](https://www.cnblogs.com/f-ck-need-u/p/8727401.html)
+
+## Docs
+1. [TOML 中文文档](https://github.com/LongTengDao/TOML/tree/%E9%BE%99%E8%85%BE%E9%81%93-%E8%AF%91)
