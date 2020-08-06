@@ -22,3 +22,4 @@
 ## Docs
 1. [TOML 中文文档](https://github.com/LongTengDao/TOML/tree/%E9%BE%99%E8%85%BE%E9%81%93-%E8%AF%91)
 2. [TOML 教程](https://github.com/LongTengDao/TOML/wiki)
+3. [Bash 脚本编程](https://wangdoc.com/bash/)
