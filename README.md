@@ -13,7 +13,7 @@
 4. [老_张](https://www.cnblogs.com/imyalost/) 性能测试
 5. [ ﹏猴子请来的救兵](https://www.cnblogs.com/yyhh/) 测试工具
 6. [hexo-NexT 主题](https://theme-next.iissnan.com/)
-7. [Huoty's Blog](http://kuanghy.github.io/)
+7. [Huoty's Blog](https://blog.konghy.cn/)
 8. [骏马金龙](https://www.junmajinlong.com/)
 
 ## Articles
