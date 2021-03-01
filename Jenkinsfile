@@ -1,9 +1,9 @@
 pipeline {
     agent any
     stages {
-        stage('build') {
+        stage('Test') {
             steps {
-                sh 'python --version'
+                sh 'echo "Fail!"; exit 1'
             }
         }
     }
